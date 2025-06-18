@@ -1,4 +1,4 @@
-project = 'PeacocktvGuide12'
+project = 'Kaspersky Customer Service'
 author = 'Your Name'
 release = '1.0'
 
